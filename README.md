@@ -1,18 +1,22 @@
 ![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610039227/Linkedin_Cover_-_Machine_Learning_Engineer_nv0ytj.png)
-<h1 align="center">Hi 👋, I'm Wendy Minai</h1>
-<h3 align="center">Active Machine Learning & Deep Learning Expert in predictive analysis</h3>
+<h1 align="center">Hi 👋, I'm Grace Minai</h1>
+<h3 align="center">Active Machine Learning & Deep Learning Expert in Predictive Analysis and Model Building</h3>
+<h3 align="center">An Enthusiatic Data Science Expert</h3>
  
-<p>I have vast experience working in Data Mining, Data Analysis, Data Visualization and Database Development areas.</p>
+<p>I have vast experience working in Data Mining, Data Analysis, Data Visualization and Model Building.</p>
 
 <p>:technologist: When I'm not at work consulting or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Data Science and :eight_spoked_asterisk: Data Visualization projects.</p>
 
 I also love working with different technologies & platforms and my current favorite ones are
-- :heart: SQL Server / PostgreSQL / MySQL
 - :heart: Python
 - :heart: Tableau
 - :heart: Power BI
 - :heart: R-Programming
-- :heart: Arena
+- :heart: Model Building with Pytorch
+- :heart: Keras and Tenssorflow Frameworks
+- :heart: Image Segmentation
+- :heart: SQL Server / PostgreSQL / MySQL
+
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/female-programmer-coding-computer-vector-illustration-90760617.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendyminai&label=Profile%20views&color=0e75b6&style=flat" alt="wendyminai" /> </p>
 
@@ -32,9 +36,9 @@ I also love working with different technologies & platforms and my current favor
 
 - 💬 Ask me about **SQL Server, My SQL, Postgre, Python, R-programming, Arena, Deep Learning, Machine Learning, Ignition,**
 
-- 📫 How to reach me **dianawendyminai@gmail.com**
+- 📫 How to reach me **gwminai@gmail.com**
 
-- ⚡ Fun fact **I have really white teeth**
+- ⚡ Fun fact **I am a pro at skiing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
