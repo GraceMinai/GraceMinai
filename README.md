@@ -22,19 +22,20 @@ I also love working with different technologies & platforms and my current favor
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendyminai" alt="wendyminai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@wendy_minai" target="blank"><img src="https://img.shields.io/twitter/follow/@wendy_minai?logo=twitter&style=for-the-badge" alt="@wendy_minai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GraceMinai" target="blank"><img src="https://img.shields.io/twitter/follow/Grace Minai?logo=twitter&style=for-the-badge" alt="@GraceMinai" /></a> </p>
+
 
 - 🔭 I’m currently working on [SQL Server & Tableau Visualization Project](https://github.com/wendyminai/SQL-Server-and-Tableau-Visualization-Project)
 
-- 🌱 I’m currently learning **Database development, Deep Learning, Raw Programming**
+- 🌱 I’m currently learning **Multivarite Analytics in R, Deep Learning, Raw Programming**
 
-- 👯 I’m looking to collaborate on [Tenserflow Handwriting Recognition](https://github.com/frereit/TensorflowHandwritingRecognition)
+- 👯 I’m looking to collaborate on [Machine Learning Research in Computational Linguistics](https://github.com/topics/computational-linguistics)
 
-- 🤝 I’m looking for help with [Fire-and-smoke-detection-with-Keras-and-Deep-Learning](https://github.com/wendyminai/Fire-and-smoke-detection-with-Keras-and-Deep-Learning)
+- 🤝 I’m looking for help with [Image Segmentation in Digital Image Processing](https://github.com/topics/image-segmentation)
 
-- 👨‍💻 All of my projects are available at [https://github.com/wendyminai](https://github.com/wendyminai)
+- 👨‍💻 All of my projects are available at [https://github.com/GraceMinai](https://github.com/GraceMinai)
 
-- 💬 Ask me about **SQL Server, My SQL, Postgre, Python, R-programming, Arena, Deep Learning, Machine Learning, Ignition,**
+- 💬 Ask me about ** Python, R-programming, Pytorch, Deep Learning, Machine Learning, Ignition, SQL Server, My SQL, Postgre**
 
 - 📫 How to reach me **gwminai@gmail.com**
 
